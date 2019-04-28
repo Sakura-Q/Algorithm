@@ -1,0 +1,4 @@
+D:\python_pyqt\clion\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\Study\all_sort\InsertSort
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/Study/all_sort/InsertSort/cmake-build-debug
